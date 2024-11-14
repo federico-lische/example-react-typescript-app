@@ -1,5 +1,16 @@
-## UI Technical Documentation
+# Example, Inc. 
 
+A simple and scalable architecture for building production level React applications
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Redux
+- Material UI
+- Formik
+- Testing: Vitest, Jest, React Testing Library
 
 ### This was built using the React + TypeScript + Vite template
 
