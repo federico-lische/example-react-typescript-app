@@ -16,6 +16,7 @@ The example application currently fetches data from the [JSON Placeholder](https
 
 ## Table Of Contents:
 
+- [Contributing](docs/contributing.md)
 - [Next Steps](docs/next-steps.md)
 - [Project Structure](docs/project-structure.md)
 - [Project Standards](docs/project-standards.md)
