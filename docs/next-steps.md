@@ -28,5 +28,6 @@ DevOps & CI/CD
 
 Performance / Caching
 - Establish patterns for performance optimization (React's memo, useMemo and useCallback hooks)
+- Code Spltting
 
 Internationalization (i18n)
