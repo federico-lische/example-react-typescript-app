@@ -8,9 +8,8 @@ To contribute to this project, you first need to clone the repository to your lo
 
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
 	```bash
-	git clone https://github.com/your-username/example-react-typescript-app.git
+	git clone https://github.com/federico-lische/example-react-typescript-app.git
 	```
-	Replace `your-username` with your GitHub username.
 
 3. **Navigate to the Project Directory**: Change into the project directory:
 	```bash
