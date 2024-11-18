@@ -27,7 +27,8 @@ DevOps & CI/CD
 - Use third party tools like GitHub Actions for running checks on pull requests via linters
 
 Performance / Caching
-- Establish patterns for performance optimization (React's memo, useMemo and useCallback hooks)
-- Code Spltting
+- Establish use of React patterns for performance optimization (React.memo HOC, useMemo and useCallback hooks).
+- Advanced Code Spltting with Webpack: Use Webpack features like 'dynamic imports' and 'splitChunks' for more advanced code splitting. 
 
 Internationalization (i18n)
+- Add multi-language support to the application
